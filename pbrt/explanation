@@ -1,1 +1,5 @@
-ファイルの説明を記載
+pbrtｰv4の既存のファイルにいくつか変更を加えてmorphoクラスを使用できるようにする
+１．bxdfs.hの1032行目から始まるMorphoBSDFクラスの宣言を追記
+２．bxdfs.cppの599行目から始まるMorphoBSDFクラスを追記
+３．materials.hの430行目から始まるMorphoMaterialクラスを定義を追記
+４．materials.cppの190行目から始まるMorphoMaterialクラスの定義を追記
